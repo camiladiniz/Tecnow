@@ -1,15 +1,10 @@
 # Tecnow
-
-###Detalhes do Projeto
 Plataforma de eventos do universo Geek: Jogos e Animes, onde os participantes do evento podem se cadastrar e cadastrar seus animes e jogos favoritos.
-CRUD de usuários, animes e jogos, autenticação, autorização, permissão utilizando a linguagem Java e Java Serves Pages(JSP), arquitetura MVC com páginas estilizadas através da framework Materialize.
+CRUD de usuários, animes e jogos, autenticação, autorização, permissão utilizando a linguagem Java, Spring MVC, Hibernate e Java Serves Pages(JSP) com páginas estilizadas através da framework Materialize.
 
-###Diagrama M
-
-###Utilização
-
+### Utilização
 Neste exemplo, a utilização é do banco de dados MySQL.
-Para editar as configurações do banco de dados MySQL, acesse a classe br.com.tecnow.dao.jdbc.FabricaDeConexoes e confugre.
+Para editar as configurações do banco de dados MySQL, acesse a classe br.com.tecnow.dao.jdbc.FabricaDeConexoes e configure.
 
 ## Criar o banco de dados
 CREATE SCHEMA tecnow;
